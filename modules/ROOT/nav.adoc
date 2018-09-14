@@ -1,0 +1,6 @@
+.xref:index.adoc[Anypoint Data Gateway]
+* xref:installing-anypoint-data-gateway.adoc[Installing Anypoint Data Gateway]
+* xref:creating-and-configuring-a-gateway.adoc[Creating and Configuring a Gateway]
+* xref:managing-gateways.adoc[Managing Gateways]
+* xref:quick-guide-to-accessing-gateways-and-objects.adoc[Quick Guide to Accessing Gateways and Objects]
+* xref:troubleshooting-data-gateway.adoc[Troubleshooting Data Gateway]
