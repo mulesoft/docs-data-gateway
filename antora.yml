@@ -1,5 +1,5 @@
 name: data-gateway
 title: Data Gateway
-version: master
+version: latest
 nav:
 - modules/ROOT/nav.adoc
