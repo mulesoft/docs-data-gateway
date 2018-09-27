@@ -217,7 +217,7 @@ When you're done, click *Save*.
 
 ==== Policies
 
-You can apply a link:/api-manager/rate-limiting-and-throttling[Throttling] policy to your gateway if you wish.
+You can apply a xref:api-manager::rate-limiting-and-throttling.adoc[Throttling] policy to your gateway if you wish.
 
 ==== Salesforce
 
