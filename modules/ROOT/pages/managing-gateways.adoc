@@ -116,8 +116,6 @@ To delete a Cloud Extender configuration, hover your mouse over the right-hand s
 
 image::cl-ext-list-confirm-remove.png[cl.ext.list.confirm.remove]
 
-For details on Cloud Extender, see the *Configuring a New Connection on a Private Network* in xref:creating-and-configuring-a-gateway.adoc[Creating and Configuring a Gateway].
-
 === Documentation
 
 Click to go the xref:index.adoc[online documentation main page].
