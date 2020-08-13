@@ -94,10 +94,6 @@ In this case you can use a *VPC*, a robust, secure IPsec or OpenSSL connection b
 
 image::configure-oracle-db-1_2-b.png[configure_oracle_db-1.2.b]
 
-=== Cloud Extender
-
-[ TODO add deprecation notice ]
-
 === Configuring a New Connection for SAP
 
 There are a few requirements for connecting Data Gateway to SAP; these are described below.
