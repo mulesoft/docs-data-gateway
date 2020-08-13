@@ -90,7 +90,8 @@ image::configure-oracle-db-1_2.png[configure_oracle_db-1.2]
 Click *Test Connection* to ensure connectivity before actually creating the connection.
 
 If your data source is on a private network, click **<Datasource name> datasource is behind a firewall**.
-In this case you can use a *VPC*, a robust, secure IPsec or OpenSSL connection between your company's network and the Anypoint Platform. Keep in mind that this might require involvement from your IT organization to fully set it up.
+
+In this case you can use a *Virtual Private Cloud (VPC)*, a robust and secure IPsec or OpenSSL connection between your company's network and Anypoint Platform. Setting up the VPC may require assistance from your company's IT organization.
 
 image::configure-oracle-db-1_2-b.png[configure_oracle_db-1.2.b]
 
