@@ -17,9 +17,13 @@ NOTE: Virtual Private Clouds (VPCs) are the only mechanism recommended to establ
 
 To install Anypoint Data Gateway, you need:
 
-* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/platform_connect_about.htm[Salesforce Connect] activated as a feature. This is the feature that allows Salesforce to access and and modify data that resides outside of its own repositories.
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/platform_connect_about.htm[Salesforce Connect] activated as a feature.
++
+This feature allows Salesforce to access and and modify data that resides outside of its own repositories.
 * Available External Data Source licenses within Salesforce Connect.
-* Virtual Private Cloud set up in Anypoint Platform. Completing Data Gateway Setup requires VPC.
+* Virtual Private Cloud set up in Anypoint Platform.
++
+Completing Data Gateway Setup requires VPC.
 
 
 == Installing
