@@ -57,7 +57,6 @@ Left-hand menu pane, which allows you to:
 
 * View and edit gateways (via the screen shown above)
 * Create or configure connections
-* View or delete Cloud Extender connections
 * Access Salesforce settings
 * Access online documentation
 * Configure your VPC
@@ -101,20 +100,6 @@ To create a new connection, click *Create Connection*.
 To edit an existing connection, click the connection name. The *Update Connection* configuration dialog is displayed, allowing you to update the parameters for the desired connection.
 
 To remove an existing connection, hover your mouse over the connection name, then click the remove icon image:remove-icon-1_2.png[remove_icon-1.2] that appears on the left.
-
-=== Cloud Extender
-
-Allows you to view and delete configurations for Cloud Extender, the agent for data sources that reside behind a firewall.
-
-image::cl-ext-list.png[cl.ext.list]
-
-Each Cloud Extender configuration allows communication between Data Gateway and a data source on a private network. Cloud Extender itself is installed on a machine within the private network. Cloud Extender configurations can only be added during the process of configuring a new data gateway; you cannot add more configurations here. This screen allows you to list or delete existing configurations.
-
-When you delete a Cloud Extender configuration, Data Gateway will cease to accept connections from the relevant Cloud Extender agent. Communication with any data sources within the private network will be lost.
-
-To delete a Cloud Extender configuration, hover your mouse over the right-hand side of the list as shown in the image above, then click the remove icon that appears. Data Gateway will prompt you to acknowledge the request, as shown below.
-
-image::cl-ext-list-confirm-remove.png[cl.ext.list.confirm.remove]
 
 === Documentation
 

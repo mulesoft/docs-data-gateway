@@ -98,10 +98,6 @@ image::configure-oracle-db-1_2-b.png[configure_oracle_db-1.2.b]
 
 [ TODO add deprecation notice ]
 
-Cloud Extender is an agent that opens a connection to Data Gateway, which Data Gateway can use for subsequent communications. Cloud Extender relays data between Data Gateway and the data source within the private network. Cloud Extender needs access to the data source, that is, network connectivity and valid user credentials. The advantage of Cloud Extender is that it eliminates the need to open ports in your firewall.
-
-Cloud Extender tunnels socket connections via SSH over HTTP, it can even handle connections that run over a proxy. It configures itself automatically — all you have to do is run it.
-
 === Configuring a New Connection for SAP
 
 There are a few requirements for connecting Data Gateway to SAP; these are described below.

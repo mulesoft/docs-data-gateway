@@ -28,8 +28,6 @@ If you're using the Data Gateway through the Anypoint Platform, then you must li
 
 * In order to use the latest fixes on data mapping, new Data Gateways must be created to replace the old ones that use blob, double, and datetime fields.
 
-* When using a connection string to set up a DB2, Oracle or MySQL DataGateway, Cloud Extender is disabled. Cloud Extender needs the initial host and ports defined to open a tunnel, and these cannot be safely derived from a connection string. The connection string can be used with either a public database, or through a VPC.
-
 * The following error message is shown when trying to create a new Data Gateway "Error: A message body reader for java.lang.class.org.mule.cs.model.Client, and java type class org.mule.cs.model.Client, and MIME media type text/plain; charset=utf-8 was not found"
 
 **  The user belongs to a business group where it has the right permissions, but Data Gateway is looking for permissions within the master organization level, where the user doesn't have it. Therefore, a 401 is returned and the Data Gateway can't be created. The workaround is to assign the user the "DataGateway Administrator" permission on any given environment within the master organization, this will allow the user to create a Data Gateway within the Business Group and environment he already has.
