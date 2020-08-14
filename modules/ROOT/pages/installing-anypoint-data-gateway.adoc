@@ -11,12 +11,19 @@ The Anypoint™ Data Gateway can be installed as a Salesforce managed package, o
 If you own an Anypoint Platform account, and your user owns the appropriate entitlements, a Data Gateway link will be present in the left nav bar within the https://anypoint.mulesoft.com[Anypoint Platform]. You can use this UI directly, instead of following the instructions in this document for installing the Anypoint Data Gateway into your Salesforce account.
 ====
 
+NOTE: Virtual Private Clouds (VPCs) are the only mechanism recommended to establish a connection between your company's network and the Anypoint Platform while using Anypoint Data Gateway.
+
 == Prerequisites
 
 To install Anypoint Data Gateway, you need:
 
-* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/platform_connect_about.htm[Salesforce Connect] activated as a feature. This is the feature that allows Salesforce to access and and modify data that resides outside of its own repositories.
-* Available External Data Source licenses within Salesforce Connect
+* https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/platform_connect_about.htm[Salesforce Connect] activated as a feature.
++
+This feature allows Salesforce to access and and modify data that resides outside of its own repositories.
+* Available External Data Source licenses within Salesforce Connect.
+* Virtual Private Cloud set up in Anypoint Platform.
++
+Completing Data Gateway Setup requires VPC.
 
 
 == Installing
