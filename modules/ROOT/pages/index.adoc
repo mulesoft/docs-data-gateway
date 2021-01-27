@@ -4,9 +4,9 @@ include::_attributes.adoc[]
 endif::[]
 :keywords: data gateway, salesforce, sap, oracle
 
-== Overview
+WARNING: Support for Anypoint Data Gateway continues in accordance with the MuleSoft https://www.mulesoft.com/legal/support-maintenance-terms[Product Support and Maintenance Terms]. However, this product is not available for new customers or upgrades.
 
-NOTE: Support for Anypoint Data Gateway continues in accordance with MuleSoft's https://www.mulesoft.com/legal/support-maintenance-terms[Product Support and Maintenance Terms]. However this product is not available for new customers or upgrades.
+== Overview
 
 Anypoint Data Gateway allows you to easily integrate data stored in legacy back-office systems with Salesforce. Data Gateway lets you access your data from within Salesforce itself, using a simple point-and-click visual interface to wield the full functionality of Salesforce on your external data.
 
