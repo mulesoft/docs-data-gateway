@@ -4,6 +4,9 @@ include::_attributes.adoc[]
 endif::[]
 :keywords: data gateway, salesforce, sap, oracle
 
+// Support notification from PM.
+include::partial$support-warning.adoc[]
+
 == Overview
 
 Once you have installed Anypoint™ Data Gateway – and performed the actions described in the *Post-Installation Steps* section of xref:installing-anypoint-data-gateway.adoc[Installing Anypoint Data Gateway] – you have two ways to access gateway and object information:

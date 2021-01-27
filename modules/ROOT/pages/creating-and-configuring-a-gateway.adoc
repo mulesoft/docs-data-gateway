@@ -4,6 +4,8 @@ include::_attributes.adoc[]
 endif::[]
 :keywords: data gateway, salesforce, sap, oracle
 
+include::partial$support-warning.adoc[]
+
 == Overview
 
 To create and manage gateways follow the steps below. When using the Data Gateway xref:installing-anypoint-data-gateway.adoc[through Salesforce] access Anypoint Gateway Designer from your Salesforce account by clicking the *MuleSoft* tab. When using it through the Anypoint Platform, access it on the *Data Gateway* tab.

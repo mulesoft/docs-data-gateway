@@ -4,6 +4,9 @@ include::_attributes.adoc[]
 endif::[]
 :keywords: data gateway, salesforce, sap, oracle
 
+// Support notification from PM.
+include::partial$support-warning.adoc[]
+
 == Logging In
 
 After you have xref:installing-anypoint-data-gateway.adoc[installed] Data Gateway, go to the *MuleSoft* tab to access Anypoint Data Gateway Designer.

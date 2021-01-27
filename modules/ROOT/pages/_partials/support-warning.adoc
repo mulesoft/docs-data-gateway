@@ -1,0 +1,2 @@
+[WARNING]
+Support for Anypoint Data Gateway continues in accordance with MuleSoft https://www.mulesoft.com/legal/support-maintenance-terms[Product Support and Maintenance Terms]. However, this product is not available for new customers or upgrades.

@@ -4,7 +4,8 @@ include::_attributes.adoc[]
 endif::[]
 :keywords: data gateway, salesforce, sap, oracle
 
-WARNING: Support for Anypoint Data Gateway continues in accordance with MuleSoft https://www.mulesoft.com/legal/support-maintenance-terms[Product Support and Maintenance Terms]. However, this product is not available for new customers or upgrades.
+// Support notification from PM.
+include::partial$support-warning.adoc[]
 
 == Overview
 
