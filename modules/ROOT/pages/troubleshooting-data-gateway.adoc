@@ -4,6 +4,9 @@ include::_attributes.adoc[]
 endif::[]
 :keywords: data gateway, salesforce, sap, oracle, db2, odata, mysql, sqlserver
 
+// Support notification from PM.
+include::partial$support-warning.adoc[]
+
 == Entitlements Support
 
 Your Anypoint Platform account must own the necessary entitlements to be able to access the DataGateway Designer in Salesforce. If you're not able to access the designer, make sure that your contract with MuleSoft includes these entitlements. If it doesn't, please contact your MuleSoft Account Team.
