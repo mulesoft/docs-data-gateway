@@ -20,7 +20,7 @@ If you own an Anypoint Platform account, and your user owns the appropriate enti
 image::index-0ac01.png[]
 
 
-To select or change the Salesforce account that is linked to your Data Gateway, click on the SalesForce link in the user menu on your left and then click the `Change` button: +
+To select or change the Salesforce account that is linked to your Data Gateway, click on the Salesforce link in the user menu on your left and then click the `Change` button: +
 
 image::dgw-anypoint-platform2.png[in anypoint platform]
 
