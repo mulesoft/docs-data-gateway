@@ -3,3 +3,6 @@ title: Data Gateway
 version: 'master'
 nav:
 - modules/ROOT/nav.adoc
+asciidoc:
+  attributes:
+    endOfLife: true
